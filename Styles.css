@@ -1,0 +1,117 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ffefdf;
+}
+
+.envelope {
+    background-color: #f6f6f6;
+    border: 4px solid #e0e0e0;
+    width: 400px;
+    height: 280px;
+    position: relative;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.flap {
+    background-color: #f6f6f6;
+    border-top: 4px solid #e0e0e0;
+    width: 0;
+    height: 0;
+    border-left: 200px solid transparent;
+    border-right: 200px solid transparent;
+    border-bottom: 80px solid #f6f6f6;
+    position: absolute;
+    top: -78px;
+    left: -4px;
+}
+
+.letter {
+    padding: 20px;
+    font-family: "Times New Roman", serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #dd5e89;
+}
+
+em {
+    font-style: italic;
+    color: #dd5e89;
+}
+
+p {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+/* You can add more CSS styles to further enhance the design. */
+
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ffefdf;
+}
+
+.envelope {
+    background-color: #f6f6f6;
+    border: 4px solid #e0e0e0;
+    width: 400px;
+    height: 280px;
+    position: relative;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.flap {
+    background-color: #f6f6f6;
+    border-top: 4px solid #e0e0e0;
+    width: 0;
+    height: 0;
+    border-left: 200px solid transparent;
+    border-right: 200px solid transparent;
+    border-bottom: 80px solid #f6f6f6;
+    position: absolute;
+    top: -78px;
+    left: -4px;
+}
+
+.letter {
+    padding: 20px;
+    font-family: "Times New Roman", serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #dd5e89;
+}
+
+em {
+    font-style: italic;
+    color: #dd5e89;
+}
+
+p {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+/* You can add more CSS styles to further enhance the design. */
+
+  
